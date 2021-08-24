@@ -89,7 +89,10 @@ import Menu from "./Menu.vue";
         { title: 'Hamburguer de Soja', src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg', flex: 6 },
         { title: 'Pudim Vegano Gostoso', src: 'https://cdn.vuetifyjs.com/images/cards/house.jpg', flex: 6 },
         { title: 'Pizza Chamichurri', src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg', flex: 6 },
-        { title: 'Hamburguer de Soja', src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg', flex: 6 }
+        { title: 'Hamburguer de Soja', src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg', flex: 6 },
+        { title: 'Pudim Vegano Gostoso', src: 'https://cdn.vuetifyjs.com/images/cards/house.jpg', flex: 6 },
+        { title: 'Pizza Chamichurri', src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg', flex: 6 },
+        { title: 'Hamburguer de Soja', src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg', flex: 6 },
         { title: 'Pudim Vegano Gostoso', src: 'https://cdn.vuetifyjs.com/images/cards/house.jpg', flex: 6 },
         { title: 'Pizza Chamichurri', src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg', flex: 6 },
         { title: 'Hamburguer de Soja', src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg', flex: 6 }
